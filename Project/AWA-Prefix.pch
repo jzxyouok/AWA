@@ -1,0 +1,70 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+// cocoa pods
+#import <ReactiveCocoa.h>
+#import <NSArray+LinqExtensions.h>
+
+#import <BlocksKit+UIKit.h>
+
+//Utility
+#import "BDMacro.h"
+#import "BDARCSynthesizeSingleton.h"
+#import "NSObject+BDLifeCycle.h"
+
+#import "UIImage+BDAddition.h"
+#import "UIView+BDLayer.h"
+#import "UIColor+BDAddition.h"
+#import "UIView+BDConvenience.h"
+#import "UIView+BDNib.h"
+#import "UITableViewCell+BDAddition.h"
+#import "UIView+BDUtility.h"
+#import "UIViewController+BDNavigationBar.h"
+
+//BDTableViewComponent
+#import "BDTableViewComponent.h"
+
+// Vendor
+#import <UIViewController+MMDrawerController.h>
+#import <MMDrawerController.h>
+
+#import "UINavigationController+FDFullscreenPopGesture.h"
+#import "ASFSharedViewTransition.h"
+
+#import <NSArray+LinqExtensions.h>
+#import <NSDictionary+LinqExtensions.h>
+
+// app
+#import "Config.h"
+#import "AppManager.h"
+#import "NSObject_UnofficialProtocol.h"
+
+#pragma mark - UI
+#import "UIButton+Addition.h"
+#import "UIColor+Addition.h"
+#import "NormalTableViewCell.h"
+#import "NavigationBar.h"
+#import "BorderView.h"
+#import "UIView+Addition.h"
+
+#pragma mark - Model
+#import "AlbumInfo.h"
+#import "MusicInfo.h"
+#import "StyleInfo.h"
+
+#import "Mock.h"
+
+#endif
