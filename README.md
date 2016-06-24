@@ -8,7 +8,7 @@
 音乐播放功能会后续放出
 
 因为本人一直对乱七八糟的代码深恶痛绝，所以这个demo重构过好几次。
-部分用到的工具类原先在静态库中，这个demo中单独抽出来，各位可以尽情拿去用。
+部分用到的工具类原先在静态库中，这个demo中单独抽出来，各位可以随便用。
 
 ## 效果
 
@@ -20,7 +20,6 @@
 <img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot2" title="ScreenShot2">
 <img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot3.png" alt="ScreenShot3" title="ScreenShot3">
 <img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot4.png" alt="ScreenShot4" title="ScreenShot4">
-<img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot5.png" alt="ScreenShot5" title="ScreenShot5">
 
 ## 联系我
 
