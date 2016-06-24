@@ -2,6 +2,8 @@
 
 业余做的一款高仿的音乐播放App
 
+**当前版本未加入音乐播放功能**
+
 目前只放了一级页面和部分二级页面的UI和动画效果
 音乐播放功能会后续放出
 
@@ -10,15 +12,15 @@
 
 ## 效果
 
-<img src="https://github.com/huanxsd/JYPaging/blob/master/ScreenShot/ScreenGIF.gif" alt="ScreenGIF" title="ScreenGIF">
+<img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenGIF.gif" alt="ScreenGIF" title="ScreenGIF">
 
 ## 截图
 
-<img src="https://github.com/huanxsd/JYPaging/blob/master/ScreenShot/ScreenShot1.png" alt="ScreenShot1" title="ScreenShot1">
-<img src="https://github.com/huanxsd/JYPaging/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot2" title="ScreenShot2">
-<img src="https://github.com/huanxsd/JYPaging/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot3" title="ScreenShot3">
-<img src="https://github.com/huanxsd/JYPaging/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot4" title="ScreenShot4">
-<img src="https://github.com/huanxsd/JYPaging/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot5" title="ScreenShot5">
+<img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot1.png" alt="ScreenShot1" title="ScreenShot1">
+<img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot2" title="ScreenShot2">
+<img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot3" title="ScreenShot3">
+<img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot4" title="ScreenShot4">
+<img src="https://github.com/huanxsd/AWA/blob/master/ScreenShot/ScreenShot2.png" alt="ScreenShot5" title="ScreenShot5">
 
 ## 联系我
 
